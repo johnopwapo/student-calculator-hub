@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://johnopwapo.github.io/student-calculator-hub/sitemap.xml
